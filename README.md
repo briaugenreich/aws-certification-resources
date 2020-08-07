@@ -5,7 +5,7 @@
 
 Below you will find the schedule, content, resources for the Women Who Code Cloud Study Group.
 
-<br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br>
+<br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br><br><br>&nbsp;&nbsp;&nbsp;<br>
 
 ## Schedule
 
