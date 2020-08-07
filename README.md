@@ -1,4 +1,4 @@
-<a href="https://www.womenwhocode.com/cloud"><img alt="The Journey to AWS Pro." align="center" src="docs/images/group_logo.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.womenwhocode.com/cloud"><img alt="The Journey to AWS Pro." align="right" src="docs/images/group_logo.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
 
 
 ## Welcome to The Journey To AWS Pro Github Repo!  
