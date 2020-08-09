@@ -2,7 +2,7 @@ class: center, middle
 
 # The Journey To AWS Pro
 
-![image](../images/group_logo.png)
+![image](../../images/group_logo.png)
 ---
 
 # Agenda
