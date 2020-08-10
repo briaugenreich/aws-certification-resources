@@ -1,9 +1,9 @@
 # August 29, 2020 - Introduction
 
-Summary:
-First session kick off!
-An intro to what the group is about, our goals, and flow for the next seven sessions.
-Recommended study resources below and in slide presentation
+Summary:  
+First session kick off!  
+An intro to what the group is about, our goals, and flow for the next seven sessions   
+Recommended study resources below and in slide presentation   
 
 [Video Recording]()
 
