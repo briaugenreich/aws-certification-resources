@@ -1,7 +1,32 @@
 layout: true
 class: typo, typo-selection
-
 ---
+
+background-image: url(images/J2P-intro.png)
+background-repeat: repeat;
+class: center, middle
+---
+
+background-image: url(images/J2P-intro-1.png)
+background-repeat: repeat;
+class: center, middle
+---
+
+background-image: url(images/J2P-intro-2.png)
+background-repeat: repeat;
+class: center, middle
+---
+
+background-image: url(images/J2P-intro-3.png)
+background-repeat: repeat;
+class: center, middle
+---
+
+background-image: url(images/J2P-intro-4.png)
+background-repeat: repeat;
+class: center, middle
+---
+
 background-image: url(images/journey_bg_square.png)
 background-repeat: repeat;
 class: center, middle
@@ -22,7 +47,6 @@ class: left, middle
 1. Introduction
 2. Deep-dive
 3. ...
-
 ---
 
 # About Me
