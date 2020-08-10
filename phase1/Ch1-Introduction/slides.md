@@ -1,11 +1,24 @@
-class: center, middle
+layout: true
+class: typo, typo-selection
+
+---
+background-image: url(binary-background.png)
+background-repeat: repeat;
 
 # The Journey To AWS Pro
+Lets get certified!
 
-![image](../../images/group_logo.png)
 ---
-
+class: left, middle
 # Agenda
+
+.left-column[ content content ]
+
+.red.bold[*] Important Notes
+
+<span class="footnote">
+  <span class="red bold">*</span> Important footnote
+</span>
 
 1. Introduction
 2. Deep-dive
@@ -21,7 +34,9 @@ Enterprise cloud expereince vs wikibuy cloud expereince
 Need to be SA certified ….. Wanted to take it further
 Fun about me facts + pic of puppy
 
-
+.right[Right-aligned text
+kjndfnsfkjd
+]
 ---
 
 # About The Group
