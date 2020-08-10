@@ -50,7 +50,7 @@ blockquote {
   position: relative;
   color: #999;
   font-weight: 400;
-  border-left: 1px solid #1abc9c;
+  border-left: 1px solid #99E1DD;
   padding-left: 1em;
   margin: 1em 3em 1em 2em;
 }
@@ -110,7 +110,7 @@ sub {
 }
 
 a {
-  color: #1abc9c;
+  color: #99E1DD;
 }
 
 a:hover {
@@ -118,12 +118,12 @@ a:hover {
 }
 
 .typo a {
-  border-bottom: 1px solid #1abc9c;
+  border-bottom: 1px solid #99E1DD;
 }
 
 .typo a:hover {
-  border-bottom-color: #555;
-  color: #555;
+  border-bottom-color: #48484A;
+  color: #48484A;
   text-decoration: none;
 }
 
