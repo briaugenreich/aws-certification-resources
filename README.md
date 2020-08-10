@@ -12,9 +12,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [ C O M I N G   S O O N ]
 
-## Table of Contents
+
+## Session Recaps
 
 [ C O M I N G   S O O N ]
+
 
 ## Contributing
 
