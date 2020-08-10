@@ -12,10 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [ C O M I N G   S O O N ]
 
-## Table of Contents
-
-[ C O M I N G   S O O N ]
-
 ## Contributing
 
 I welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
