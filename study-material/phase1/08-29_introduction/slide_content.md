@@ -59,24 +59,32 @@ Inspired by our fireside chat
 Fun about me facts + pic of puppy
 
 ---
-
+class: left, middle
 # About The Group
-(personal)
 
-Personsal Motivations behind certification.
+???
+Industry motivations - 81% of apps. 1/3 company spend. companies moving to the cloud. cloud programs.
+Personal Motivations behind certification... company encouragement ...
 Hosted fireside chat -
+Journey to pro was born
 
+---
 
-Journey to pro ws born
-Each exam we’ll share resources, walk trhough lecture material review, whtie papers, real world examples/expereinces, and labs and practice test
-Interactive and collaborative (past the lecture parts) . Discussing in slack
-We want to celebrate you gettng your cert
+class: center, middle
+### Accountability. Support. Resources. Collaboration. Real World Experiences
 
-Accountability
-Support
-Resources  
-Collaboration
-Real World Expereinces
+---
+
+class: left, middle
+### Accountability
+### Support
+### Resources
+### Collaboration
+### Real World Experiences
+
+---
+
+.center[# We want to celebrate with you! ]
 
 ---
 
@@ -121,4 +129,4 @@ Cert is now good for 3 years
 # Homework
 
 - whats your why?
-- whats your goal
+- whats your goal?
