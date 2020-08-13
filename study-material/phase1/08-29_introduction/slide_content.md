@@ -27,39 +27,37 @@ background-repeat: repeat;
 class: center, middle
 ---
 
-background-image: url(images/journey_bg_square.png)
+background-image: url(images/journey_bg_rectangle.png)
 background-repeat: repeat;
 class: center, middle
 ---
 
-
 class: left, middle
 # Agenda
 
-.left-column[ content content ]
+Introductions
 
-.red.bold[*] Important Notes
-
-<span class="footnote">
-  <span class="red bold">*</span> Important footnote
-</span>
-
-1. Introduction
-2. Deep-dive
-3. ...
 ---
 
-# About Me
-Software engineer turned sre cloud engineer
-Cloud certified before
-Expereince developing cloud solutiosn
-Enterprise cloud expereince vs wikibuy cloud expereince
-Need to be SA certified ….. Wanted to take it further
+# Nice to meet you!
+<br><br>
+.middle[
+
+.left-column[<img src="images/bri-headshot.jpg" alt="bri headshot" width="300" style="border-radius: 50%;"/>]
+<br>
+.right-column[### Bri Augenreich
+<small> Master Software Engineer @CapitalOne
+   Leadership Fellow @WomenWhoCode
+ </small>]
+ ]
+
+???
+Software engineer turned sre cloud engineer ... not defined by my role title... explored... sre/devops
+Experience developing cloud solutions - Enterprise cloud experience vs wikibuy cloud experience
+Cloud certified before but Need to be SA certified ….. Wanted to take it further
+Inspired by our fireside chat
 Fun about me facts + pic of puppy
 
-.right[Right-aligned text
-kjndfnsfkjd
-]
 ---
 
 # About The Group
@@ -67,14 +65,18 @@ kjndfnsfkjd
 
 Personsal Motivations behind certification.
 Hosted fireside chat -
-Accountability
-Support
-Resources  
+
 
 Journey to pro ws born
 Each exam we’ll share resources, walk trhough lecture material review, whtie papers, real world examples/expereinces, and labs and practice test
 Interactive and collaborative (past the lecture parts) . Discussing in slack
 We want to celebrate you gettng your cert
+
+Accountability
+Support
+Resources  
+Collaboration
+Real World Expereinces
 
 ---
 
