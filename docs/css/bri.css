@@ -1,0 +1,14 @@
+/* Two-column layouts */
+.left-column  { width: 49%; float: left; }
+.right-column { width: 49%; float: right; }
+
+.left-column-33  { width: 33%; float: left; }
+.right-column-66 { width: 66%; float: right; }
+
+.left-column-66  { width: 66%; float: left; }
+.right-column-33 { width: 33%; float: right; }
+
+.right-column ~ p { clear: both; }
+.right-column ~ ul { clear: both; }
+
+.red{ color: red }
