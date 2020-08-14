@@ -21,7 +21,7 @@ Recommended study resources below and in slide presentation
 To view the slides formatted and rendered run the following:
 
   ```shell
-  cd slides
+  cd docs
   python3 -m http.server 8000
   # Go to localhost:8000 in your browser and select this presentation
   ```
