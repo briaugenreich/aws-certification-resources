@@ -10,7 +10,43 @@ Recommended study resources below and in slide presentation
 
 ## Resource Links Shared
 
-[ T B D ]
+[Udemy Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+
+[A Cloud Guru Solutions Architect Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+
+[CloudAcademy Solutions Architect Associate](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/)
+
+[AWS FAQs](https://aws.amazon.com/faqs/)
+
+[AWS A Well Architected Framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
+[AWS White Paper Guides](https://aws.amazon.com/whitepapers/)
+
+[Whizlab Labs](https://www.whizlabs.com/aws-solutions-architect-associate/)
+
+[Linux Academy Labs](https://linuxacademy.com/course/aws-certified-solutions-architect-associate-level/)
+
+[Udemy Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+
+[A Cloud Guru Solutions Architect Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+
+[Cloud Academy Lab Challenges](https://cloudacademy.com/library/amazon-web-services/lab-challenges/)
+
+[Cloud Academy Labs](https://cloudacademy.com/library/amazon-web-services/labs/)
+
+[Udemy Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
+
+[Whizlab Practice Exams](https://www.whizlabs.com/aws-solutions-architect-associate/)
+
+[AWS Practice Exam](https://www.aws.training/certification?src=exam-prep)
+
+[A Cloud Guru Practice Exam](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+
+[Cloud Academy Practice Exam Questions](https://cloudacademy.com/quiz/36025/)
+
+[Cloud Academy General Quizzes](https://cloudacademy.com/library/amazon-web-services/quizzes/)
+
+
 
 ## Code Shared
 
