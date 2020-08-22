@@ -50,7 +50,7 @@ blockquote {
   position: relative;
   color: #999;
   font-weight: 400;
-  border-left: 1px solid #99E1DD;
+  border-left: 1px solid #007a7c;
   padding-left: 1em;
   margin: 1em 3em 1em 2em;
 }
@@ -110,7 +110,7 @@ sub {
 }
 
 a {
-  color: #99E1DD;
+  color: #007a7c;
 }
 
 a:hover {
@@ -118,7 +118,7 @@ a:hover {
 }
 
 .typo a {
-  border-bottom: 1px solid #99E1DD;
+  border-bottom: 1px solid #007a7c;
 }
 
 .typo a:hover {
@@ -167,6 +167,12 @@ figcaption {
   color: #888;
 }
 
+xtra-small, .typo-xtra-small,
+figcaption {
+  font-size: 0.5em;
+  color: #888;
+}
+
 strong, b {
   font-weight: bold;
   color: #000;
@@ -210,7 +216,6 @@ strong, b {
 h1, h2, h3, h4, h5, h6 {
   font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
   font-weight: 100;
-  color: #000;
   line-height: 1.35;
 }
 
@@ -223,10 +228,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .typo h1, .typo-h1 {
   font-size: 2em;
+  color: #007a7c;
+  font-weight: normal;
 }
 
 .typo h2, .typo-h2 {
-  font-size: 1.8em;
+  font-size: 1.85em;
 }
 
 .typo h3, .typo-h3 {

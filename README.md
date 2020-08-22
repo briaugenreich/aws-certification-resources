@@ -3,19 +3,47 @@
 
 ## Welcome to The Journey To AWS Pro Github Repo!  
 
-Below you will find the schedule, content, resources for the Women Who Code Cloud Study Group.
+Below you will find the schedule, content, and resources for the Women Who Code AWS Certification Study Group.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This study group will provide support participants need to reach their AWS certification goals. Any and all cloud interested engineers are welcome! Whether you're new to cloud computing or an experienced DevOps engineer, this study group will provide a ton of value and resources you need to reach your goals.
+
+Collectively we have 4 main goals... To provide Accountability, Support, Resources, and Real World Experiences.
+
+We will hold each other accountable for getting our certifications by holding and attending regular meetings to check in.
+We will offer support to encourage everyone interested in embracing this journey by sharing and collaborating.
+We will recommend resources to increase our chances of success.
+We will share real world experiences to drive home our learnings and enable us to level up in our careers.
+
+Note this group is **not going to teach the exam material**. There are a TON of resources and experts who's sole focus and expertise lies in helping people pass the exams. We will encourage participants to use these resources to learn the material and we provide the space and support to set you up for success!
+
+We look forward to embarking on this fun journey with you! Checkout the graphics and schedule below for details about our upcoming (AND FIRST :celebrate:) phase.
+
+### _A Phased Approach..._
+
+<br/>
+<p align="center">
+  <img alt="The Journey to AWS Pro." src="docs/images/journey2.png" width="85%">
+  <br/><br/>
+  <img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png"  width="85%">
+</p>
+<br/>
 
 
 ## Schedule
 
-[ C O M I N G   S O O N ]
+
+- [ ] 8/29: Group Intro + Resource Review
+- [ ] 9/12: Udemy Video Reivew 1-13
+- [ ] 9/26: Udemy Video Review 14-23
+- [ ] 10/10: White paper review + discussions
+- [ ] 10/24 10/31 11/14 : Hands on lab and exam practice
+- [ ] 11/28 Celebrate! Phase 1 Complete
+
 
 
 ## Session Recaps
 
-[ C O M I N G   S O O N ]
+[August 29, 2020 : Intro](study-material/phase1/08-29_introduction)
 
 
 ## Contributing

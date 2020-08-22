@@ -11,4 +11,16 @@
 .right-column ~ p { clear: both; }
 .right-column ~ ul { clear: both; }
 
-.red{ color: red }
+.teal{ color: #007a7c !important; }
+
+.blue{ color: #99E1DD !important;}
+
+.orange{ color: orange;}
+
+.grey{ color: grey;}
+
+.footnote {
+    position: absolute;
+    bottom: 50px;
+    right: 100px;
+}
