@@ -21,9 +21,9 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 ### _A Phased Approach..._
 
 <br/>
-<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey2.png" width="75%">
+<img alt="The Journey to AWS Pro." align="middle" src="docs/images/journey2.png" width="75%">
 <br/><br/>
-<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png">
+<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png"  width="75%">
 <br/><br/>
 
 ## Schedule
