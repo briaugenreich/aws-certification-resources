@@ -26,4 +26,4 @@ To view the slides formatted and rendered run the following:
   # Go to localhost:8000 in your browser and select this presentation
   ```
 
-To view the content of the slides without a server open [this file](../../docs/08-29_introduction.html) in your browser.
+To view the content of the slides without a server open [this file](../../../docs/08-29_introduction.html) in your browser.
