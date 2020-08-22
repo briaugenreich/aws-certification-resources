@@ -18,10 +18,10 @@ Note this group is **not going to teach the exam material**. There are a TON of 
 
 We look forward to embarking on this fun journey with you! Checkout the graphics and schedule below for details about our upcoming (AND FIRST :celebrate:) phase.
 
-### _A Phased Approach_
+### _A Phased Approach..._
 
-<br/><br/>
-<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey2.png" width="90%">
+<br/>
+<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey2.png" width="75%">
 <br/><br/>
 <img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png">
 <br/><br/>
