@@ -18,21 +18,23 @@ Note this group is **not going to teach the exam material**. There are a TON of 
 
 We look forward to embarking on this fun journey with you! Checkout the graphics and schedule below for details about our upcoming (AND FIRST :celebrate:) phase.
 
-## _A Phased Approach_
+### _A Phased Approach_
 
-<img alt="The Journey to AWS Pro." align="right" src="docs/images/journey2.png">
-
-<img alt="The Journey to AWS Pro." align="right" src="docs/images/journey3.png">
+<br/><br/>
+<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey2.png" width="90%">
+<br/><br/>
+<img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png">
+<br/><br/>
 
 ## Schedule
 
 
-:box: 8/29: Group Intro + Resource Review
-- 9/12: Udemy Video Reivew 1-13
-- 9/26: Udemy Video Review 14-23
-- 10/10: White paper review + discussions
-- 10/24 10/31 11/14 : Hands on lab and exam practice
-- 11/28 Celebrate! Phase 1 Complete
+- [ ] 8/29: Group Intro + Resource Review
+- [ ] 9/12: Udemy Video Reivew 1-13
+- [ ] 9/26: Udemy Video Review 14-23
+- [ ] 10/10: White paper review + discussions
+- [ ] 10/24 10/31 11/14 : Hands on lab and exam practice
+- [ ] 11/28 Celebrate! Phase 1 Complete
 
 
 
