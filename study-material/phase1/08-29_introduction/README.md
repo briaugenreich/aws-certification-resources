@@ -2,10 +2,10 @@
 
 Summary:  
 First session kick off!  
-An intro to what the group is about, our goals, and flow for the next seven sessions   
+An intro to what the group is about, our goals, and the flow for the next seven sessions   
 Recommended study resources below and in slide presentation   
 
-[Video Recording]()
+[Video Recording - COMING SOON]()
 
 
 ## Resource Links Shared
