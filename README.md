@@ -22,9 +22,9 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 
 <br/>
 <p align="center">
-  <img alt="The Journey to AWS Pro." src="docs/images/journey2.png" width="75%">
+  <img alt="The Journey to AWS Pro." src="docs/images/journey2.png" width="85%">
   <br/><br/>
-  <img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png"  width="75%">
+  <img alt="The Journey to AWS Pro." align="center" src="docs/images/journey3.png"  width="85%">
 </p>
 <br/>
 
