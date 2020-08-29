@@ -6,6 +6,7 @@ An intro to what the group is about, our goals, and the flow for the next seven 
 Recommended study resources below and in slide presentation   
 
 [Video Recording - COMING SOON]()
+[Slides](https://techandtutus.com/aws-certification-resources/08-29_introduction.html#1) 
 
 
 ## Resource Links Shared
