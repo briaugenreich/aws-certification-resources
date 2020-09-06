@@ -5,7 +5,7 @@ First session kick off!
 An intro to what the group is about, our goals, and the flow for the next seven sessions   
 Recommended study resources below and in slide presentation   
 
-[Video Recording - COMING SOON]()
+[Video Recording](https://www.youtube.com/watch?v=8zUb7eq6dWk&list=PLVcEZG2JPVhd9FmfWabShee6U3xt3k_3r&index=15&t=1117s)
 
 [Slides](https://techandtutus.com/aws-certification-resources/08-29_introduction.html#1) 
 
