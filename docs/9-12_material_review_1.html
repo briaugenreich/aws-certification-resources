@@ -249,10 +249,69 @@
 
       ???
       **cloud providers -> servers + services you can use on demand
+
+      ---
+      class: center, middle
+      # Chapter 1 & 2 Questions?
+
       ---
 
-      # Chapter 3
-      <small> IAM & EC2</small>
+      ## .wwcodebold[Chapter 3:] IAM & EC2
+
+      - Regions vs Availability Zones
+        - Regions: a geographic area, reduce latency, have 2 or more data centers
+        - Availability Zones (AZ): the represenation of a data center
+        - Some services are regional (EC2, RDS) and some are global (R53, IAM)
+        <a href="https://aws.amazon.com/about-aws/global-infrastructure/"><img src="images/slides/phase1/aws_global_infra.png" alt="" width="650" /></a>
+
+        ???
+        - What region are yall using?
+      ---
+      ## .wwcodebold[Chapter 3:] IAM & EC2
+      - IAM = Identity and Access Management
+        - acces control for all AWS people (users + groups) and resources (ec2, rds, etc)
+        - least privilege access
+        - one user per person
+        - one role per application
+        - **never** share iam creds or save them in github/code
+        - never use the root credentials
+
+      ---
+      ## .wwcodebold[Chapter 3:] IAM & EC2
+      - EC2 is the _powerhouse_ and _fundamentals_ of AWS compute
+        - Virtual machine where you pick your CPU & RAM (**instance type**), OS (AMI), storage (ebs volume), and security (security groups)
+        - Ssh into our instance via port 22 (**exam question on modifying pem file permissions**)
+        - Configure/bootstrap our instance via user data
+
+
+      - Security Groups: fundamentals of AWS security
+        - define rules for inbound & outbound traffic on specific ports
+        - timeouts are almost always security group issues
+
+      ???
+      - review instance reservations (reserved, spot,on demand, dedicated, dedicated host)
+      - review instance types (R, C, M, I, G,t2/t3)
+
+      ---
+      ## .wwcodebold[Chapter 3:] IAM & EC2
+      - Private, Public and Elastic IPs
+        - IPv6 (2001:0db8:85a3:0000:0000:8a2e:0370:7334) and IPv4 (172.16.254.1.)
+        - Public IP: machine can be identified on the internet (unique across the entire web)
+        - Private IP: machine can be identified on/accessed on a pirivate network (uqnique within subnet range for network)
+        - Elastic IP: give a fixed **public IP **
+
+      ---
+      ## .wwcodebold[Chapter 3:] IAM & EC2
+      - ENI: Elastic Network Interface
+        - logical represnetation of a virtual network card
+        - enables attachment of primary private IP, secondary primary IP, MAC address, SGs
+        - Can only attach a public IP as inital eth0 (on machine startup ec2 is assigned an ENI with a public IP)
+
+      ???
+      - IPs are our address to our machines
+      - this is where i stumble a bit
+      - avoid using ips ... use dns or lbs
+      - 3 elastic ips per account
 
       ---
       class:center, middle
@@ -261,10 +320,82 @@
       ---
       # Chapter 3 Food For Thought
 
+      SSH v Telnet
+
+      Favorite provisioning tools?
+
+      `ifConfig`
+
+      What common tools do you install / uses cases for user data?
+
+      [Baking vs Frying](https://docs.google.com/presentation/d/1EiztD9WOft77vKU2JAGhzWLasa_rDPmSqTVMJmsc6N8/edit#slide=id.g87586083ef_0_66)
+
+      [https://ec2instances.info/](https://ec2instances.info/)
 
       ---
       class: center, middle
       # Chapter 3 Questions?
+
+      ---
+      ## .wwcodebold[Chapter 4:] ELB & ASG
+
+      We want to enable **vertical** scalability (increase size m4.large -> m4.xlarge).
+
+      We want to enable **horizantal** elasticity (1 instance to 4 instances).
+
+      We want to enable high availability (survivial of a data center or region outage).
+
+      ---
+      ## .wwcodebold[Chapter 4:] ELB & ASG
+
+      - Elastic Load Balancer: single dns or ip entry point that routes traffic to various backends (technically is a server under the hood)
+        - Enable elasticitiy and high availability
+        - Classic Load Balancer: layer 4 (TCP) and layer 7 (HTTP) communication that routes traffic to fixed hosts **legacy/depricated **
+        - Application load balancer: layer 7 (HTTP) communication that routes traffic to various target groups and can perform health checks
+        - Network load balancer: layer 4 (TCP) communication that provides high throughput and low latency routing to target groups
+        - Stickiness & cross zone balancing are important features to remember!
+
+      ---
+      ## .wwcodebold[Chapter 4:] ELB & ASG
+
+      - Autoscaling group: scales ec2 instances to match increased or decreased load
+        - Enables elasticity and high availability (sort of)
+        - Launch Templates vs Launch Config: both provide information on what the instance should look like when it comes up.
+        - 3 scaling policies: target tracking scaling, simple/step scaling, scheduled action
+
+
+      ???
+      - launch tempalte = new + spot fleet + versiong
+      - launch config = old + one instance type
+      ---
+      # Chapter 4 Food For Thought
+
+      Other load balancers (HAProxy)
+
+      Anyone have a good network layer explination?
+
+      SSL/TLS
+
+      Has anyone confured their own cert in ACM?
+
+      A fun story about load balancer warming!
+
+      ALB Web socket connections?
+
+      Whats a use case for ASG lifecycle hooks?
+      ---
+      class: center, middle
+      # Chapter 4 Questions?
+
+
+
+      ---
+      ## .wwcodebold[Chapter X:] TOPIC
+      ---
+      # Chapter X Food For Thought
+      ---
+      class: center, middle
+      # Chapter X Questions?
 
       ---
       class: middle
