@@ -374,7 +374,7 @@
 
       Anyone have a good network layer explination?
 
-      SSL/TLS
+      <a href="https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https#:~:text=Transport%20Layer%20Security%20(TLS)%20is,SSL%20is%20still%20widely%20usedm">SSL/TLS</a>
 
       Has anyone confured their own cert in ACM?
 
@@ -387,15 +387,174 @@
       class: center, middle
       # Chapter 4 Questions?
 
-
-
       ---
-      ## .wwcodebold[Chapter X:] TOPIC
+      ## .wwcodebold[Chapter 5:] EBS & EFS
+
+      - Elastic Block Store: virtual network drive attached to ec2 that enables data to persist
+        - ec2 root volume setup by default and configured to delete on termination
+        - 4 types of volumes: GP2, IO1, ST1, SC1,
+        - can snapshot incrimental changes of ebs volumes
+
+      - Instance Store: phsycial drive attached to ec2 that enables ephemeral storage
+
+      - RAID for ebs: how to configure attached volumes
+        - RAID0: increased performance by splitting logical volume across two ebs volumes
+        - RAID1: increase fault tolerance by duplicating logical volume data across two ebs voumes
       ---
-      # Chapter X Food For Thought
+      ## .wwcodebold[Chapter 5:] EBS & EFS
+
+      - Elastic File System: a managed network file system that can be mouned to many ec2s
+        - built for 1000s of clients (ec2s)
+        - 2 storage tiers: standard, EFS-IA
+      ---
+      # Chapter 5 Food For Thought
+
+      EFS vs EBS vs Instance Store
+
+      What is a network drive?
+
+      [Increasing ebs volume capacity](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html)
+
+      `lsblk` & `du -hs <filepath>/* `
+
+      Volumes restored from snapshot need to be pre-warmed??
+
+      Block storage definition
+
+      [NFSv4.1](https://en.wikipedia.org/wiki/Network_File_System)
+
+      Can you see efs with `lsblk`
+
+      When to use efs over s3 or ebs?
+
+      ???
+       - computer resource made available from one host to other hosts on a computer network.
+
       ---
       class: center, middle
-      # Chapter X Questions?
+      # Chapter 5 Questions?
+
+      ---
+      ## .wwcodebold[Chapter 6:] RDS, Aurora, & Elasticache
+
+      - Relational Database Service: managed relational db
+        - postgres, mysql, aurora, mariadb, oracle, microsoft
+        - backups, restores, scalability, fault tolerence, high availability built in
+        - read replica vs multi az
+
+      - Aurora: amazons own relational db with extra service/cloud optimized features built in
+        - compatible with mysql or postgres drivers... still amazons PROPRIETARY db
+        - autoscaling readers, serverless, global, 6 copies of data across 3 azs
+        - clustered system with writer and reader nodes and underlying shared storage volume
+        - reader and writer dns endpoints
+
+      ---
+      ## .wwcodebold[Chapter 6:] RDS, Aurora, & Elasticache
+
+      - Elasticache: managed cache (in memory db with high performance and low latency)
+        - memcached: multinode partiioned data for multithreaded quick cache (no data persistance)
+        - redis: multi az, replicated data with auto failovers
+
+      ---
+      # Chapter 6 Food For Thought
+
+      Do the IAM users connected to rds show up in user table?
+
+      What drivers do folks use to connect to their db?
+
+      Can interact with redis via `telnet`
+
+      ---
+      class: center, middle
+      # Chapter 6 Questions?
+
+      ---
+      ## .wwcodebold[Chapter 7:] R53
+
+      - R53: managed domain name system AND registar
+        - name is a reference to TCP or UDP port 53 and a reference to U.S. Route 66
+        - rules and records let clients connecting know how to reach a server via a domain name
+        - A record: hostname to IPv4
+        - AAAA record: hostname to IPv6
+        - cname: hostname to hostname  (only work for non root domains )
+        - alias: hostname to AWS record
+        - 5 routing policies: simple, weighted, latency, failover, geolocation, multivalue
+
+      ???
+      port 53 , where DNS server requests are addressed,[2]
+
+      ---
+      # Chapter 7 Food For Thought
+
+      `nslookup` vs `dig`
+
+      metadata api !
+
+      Security groups/ DNS access affecting R53 health checks
+
+      Not a replacement for a loadbalncer, but great for failure scenarios and multi region architecture
+      ---
+      class: center, middle
+      # Chapter 7 Questions?
+
+      ---
+      ## .wwcodebold[Chapter 8:] Solution Architecture Part 1!
+
+      3 case studies applying all that we learned to building a software solution
+
+      Provisioning infrastructure quickly:
+        - bootstrapping + golden ami (baking vs frying)
+        - restoring from snapshot
+
+      Elasticbeanstalk - platform as a service that enables you to just care about deploying application
+
+      ---
+      # Chapter 8 Food For Thought
+
+      SAAS v PAAS v IAAS
+
+      How often do folks use Elasticbeanstalk?
+
+      Restoring ebs from snapshots
+      ---
+      class: center, middle
+      # Chapter 8 Questions?
+
+      ---
+      ## .wwcodebold[Chapter 9:] S3
+      ---
+      # Chapter 9 Food For Thought
+      ---
+      class: center, middle
+      # Chapter 9 Questions?
+
+
+      ---
+      ## .wwcodebold[Chapter 10:] CLI, SDK, IAM
+      ---
+      # Chapter 10 Food For Thought
+      ---
+      class: center, middle
+      # Chapter 10 Questions?
+
+
+
+      ---
+      ## .wwcodebold[Chapter 11:] S3 + Athena
+      ---
+      # Chapter 13 Food For Thought
+      ---
+      class: center, middle
+      # Chapter 13 Questions?
+
+
+      ---
+      ## .wwcodebold[Chapter 12:] Cloudfront & AWS Global Accelerator
+      ---
+      # Chapter 12 Food For Thought
+      ---
+      class: center, middle
+      # Chapter 12 Questions?
 
       ---
       class: middle
