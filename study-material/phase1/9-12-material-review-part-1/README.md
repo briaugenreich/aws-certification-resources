@@ -1,12 +1,14 @@
-# August 29, 2020 - Introduction
+# September 12 - Material Review Part 1
 
 Summary:  
 
+- High level Walk through of content  [Udemy Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/) videos 1-8.
+- Few sample quizzes + questions answered
 
-[Video Recording...COMING SOON]()
+
+[Video Recording available in slack](https://wwcodecloud.slack.com/archives/CLS3849RN/p1600215360028500)
 
 [Slides](https://techandtutus.com/aws-certification-resources/9-12_material_review_1.html#1)
-
 
 
 ## Resource Links Shared
@@ -16,7 +18,7 @@ Summary:
 
 ## Code Shared
 
-[ C O M I N G  S O O N ]
+`n/a`
 
 ## Slides
 
