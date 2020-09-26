@@ -45,8 +45,8 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 ## Session Recaps
 
 [August 29, 2020 : Intro](study-material/phase1/08-29_introduction)
-
-
+[Septmeber 12, 2020 : Material Review 1](study-material/phase1/09-12-material-review-part-1)
+[September 26, 2020 : Material Review 2](study-material/phase1/09-26-material-review-part-2)
 ## Contributing
 
 I welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
