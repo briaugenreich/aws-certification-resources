@@ -32,9 +32,9 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 ## Schedule
 
 
-✅ 8/29: Group Intro + Resource Review  
-✅ 9/12: Udemy Video Reivew 1-7    
-✅ 9/26: Udemy Video Review 8-17  
+✅ 8/29: Group Intro + Resource Review
+✅ 9/12: Udemy Video Reivew 1-7
+✅ 9/26: Udemy Video Review 8-17
 - [ ] 10/10: Udemy Video Review 18-24
 - [ ] 10/24: White paper review + discussions
 - [ ] 10/31 11/14 : Hands on lab and exam practice
