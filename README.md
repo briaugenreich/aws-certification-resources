@@ -35,8 +35,8 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 ✅ 8/29: Group Intro + Resource Review
 ✅ 9/12: Udemy Video Reivew 1-7
 ✅ 9/26: Udemy Video Review 8-17
-- [ ] 10/10: Udemy Video Review 18-24
-- [ ] 10/24: White paper review + discussions
+❌ ~10/10: Udemy Video Review 18-24~ [C A N C L E D]
+✅ 10/24:Udemy Video Review 18-24 & White paper review + discussions
 - [ ] 10/31 11/14 : Hands on lab and exam practice
 - [ ] 11/28 Celebrate! Phase 1 Complete
 
@@ -47,6 +47,8 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 [August 29, 2020 : Intro](study-material/phase1/08-29_introduction)
 [Septmeber 12, 2020 : Material Review 1](study-material/phase1/09-12-material-review-part-1)
 [September 26, 2020 : Material Review 2](study-material/phase1/09-26-material-review-part-2)
+[October 24, 2020 : Material Review 3 & White Paper Discussion](study-material/phase1/10-24-material-review-part-3)
+
 ## Contributing
 
 I welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
