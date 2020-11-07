@@ -15,6 +15,7 @@ Summary:
 [AWS FAQs](https://aws.amazon.com/faqs/)
 [AWS A Well Architected Framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 [AWS White Paper Guides](https://aws.amazon.com/whitepapers/)
+[AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets)
 
 ## Code Shared
 
