@@ -3,7 +3,7 @@
 Summary:  
 
 - Quiz review of exam material  [Udemy Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/) videos 18-24.
--
+- FAQ / White Paper review! 
 
 
 [Slides](https://techandtutus.com/aws-certification-resources/10-24_material_review_3.html#1)
