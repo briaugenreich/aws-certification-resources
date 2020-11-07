@@ -32,6 +32,8 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 ## Schedule
 
 
+#### Phase 1: Solutions Architect Associate
+
 ✅ 8/29: Group Intro + Resource Review
 
 ✅ 9/12: Udemy Video Reivew 1-7
@@ -49,13 +51,18 @@ We look forward to embarking on this fun journey with you! Checkout the graphics
 
 ## Session Recaps
 
+
+#### Phase 1: Solutions Architect Associate
+
 [August 29, 2020 : Intro](study-material/phase1/08-29_introduction)
 
-[Septmeber 12, 2020 : Material Review 1](study-material/phase1/09-12-material-review-part-1)
+[Septmeber 12, 2020 : Material Review 1](study-material/phase1/9-12-material-review-part-1)
 
-[September 26, 2020 : Material Review 2](study-material/phase1/09-26-material-review-part-2)
+[September 26, 2020 : Material Review 2](study-material/phase1/9-26-material-review-part-2)
 
 [October 24, 2020 : Material Review 3 & White Paper Discussion](study-material/phase1/10-24-material-review-part-3)
+
+[November 7, 2020: Hands on Part 1](study-material/phase1/11-7-hands-on-part-1)
 
 ## Contributing
 

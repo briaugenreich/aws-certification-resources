@@ -6,7 +6,7 @@ Summary:
 - Few sample quizzes + questions answered
 
 
-[Video Recording...COMING SOON]()
+[Video Recording available in slack](https://wwcodecloud.slack.com/archives/CLS3849RN/p1601599193013300)
 
 [Slides](https://techandtutus.com/aws-certification-resources/9-26_material_review_2.html#1)
 
@@ -27,7 +27,7 @@ Summary:
 
 ## Code Shared
 
-`[ C O M I N G  S O O N ]`
+`n/a`
 
 ## Slides
 

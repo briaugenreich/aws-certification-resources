@@ -1,23 +1,14 @@
-# August 29, 2020 - Introduction
+# November 7 - Hands on Part 1
 
 Summary:  
-- First session kick off!  
-- An intro to what the group is about, our goals, and the flow for the next seven sessions   
-- Recommended study resources below and in slide presentation   
 
-[Video Recording](https://www.youtube.com/watch?v=8zUb7eq6dWk&list=PLVcEZG2JPVhd9FmfWabShee6U3xt3k_3r&index=15&t=1117s)
+- Open time for folks to review any material needed and practice hands on!
 
-[Slides](https://techandtutus.com/aws-certification-resources/08-29_introduction.html#1)
 
+[Slides](https://techandtutus.com/aws-certification-resources/11-07_hans_on_1.html#1)
 
 
 ## Resource Links Shared
-
-[Udemy Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
-
-[A Cloud Guru Solutions Architect Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-
-[CloudAcademy Solutions Architect Associate](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/)
 
 [AWS FAQs](https://aws.amazon.com/faqs/)
 
@@ -28,10 +19,6 @@ Summary:
 [Whizlab Labs](https://www.whizlabs.com/aws-solutions-architect-associate/)
 
 [Linux Academy Labs](https://linuxacademy.com/course/aws-certified-solutions-architect-associate-level/)
-
-[Udemy Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
-
-[A Cloud Guru Solutions Architect Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 
 [Cloud Academy Lab Challenges](https://cloudacademy.com/library/amazon-web-services/lab-challenges/)
 
@@ -50,10 +37,10 @@ Summary:
 [Cloud Academy General Quizzes](https://cloudacademy.com/library/amazon-web-services/quizzes/)
 
 
-
 ## Code Shared
 
-[ n / a ]
+`n/a`
+
 
 ## Slides
 
@@ -65,4 +52,4 @@ To view the slides formatted and rendered run the following:
   # Go to localhost:8000 in your browser and select this presentation
   ```
 
-To view the content of the slides without a server open [this file](../../../docs/08-29_introduction.html) in your browser.
+To view the content of the slides without a server open [this file](../../../docs/11-07_hands_on_1.html) in your browser.
