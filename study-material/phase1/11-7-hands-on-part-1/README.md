@@ -1,4 +1,4 @@
-# October 24 - Material Review Part 3
+# November 7 - Hands on Part 1
 
 Summary:  
 
