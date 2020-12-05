@@ -1,11 +1,11 @@
-# November 7 - Hands on Part 1
+# Hands on Part
 
 Summary:  
 
 - Open time for folks to review any material needed and practice hands on!
 
 
-[Slides](https://techandtutus.com/aws-certification-resources/11-07_hans_on_1.html#1)
+[Slides are the same for weeks 1-3](https://techandtutus.com/aws-certification-resources)
 
 
 ## Resource Links Shared
